@@ -1,0 +1,17 @@
+asyncio
+logging
+traceback
+json
+pyyaml
+libvmi
+sentry-sdk
+tenacity
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+scipy
+plotly
+tkinterdnd2
+Pillow
